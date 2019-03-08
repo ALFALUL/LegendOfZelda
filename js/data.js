@@ -25,31 +25,38 @@ var linky = [
 var postavy = [
     {
         "name":"Link",
-        "photo":"postava1.png"
+        "photo":"postava1.png",
+        "desc":"The young hero of Hyrule and wielder of the legendary Master Sword."
     },
     {
         "name":"Zelda",
-        "photo":"postava2.png"
+        "photo":"postava2.png",
+        "desc":"Wise beyond her years, Zelda is the royal princess of Hyrule."
     },
     {
         "name":"Impa",
-        "photo":"postava3.png"
+        "photo":"postava3.png",
+        "desc":""
     },
     {
         "name":"Ganondorf",
-        "photo":"postava4.png"
+        "photo":"postava4.png",
+        "desc":""
     },
     {
         "name":"Ganon",
-        "photo":"postava5.png"
+        "photo":"postava5.png",
+        "desc":""
     },
     {
         "name":"Deku",
-        "photo":"postava6.png"
+        "photo":"postava6.png",
+        "desc":""
     },
     {
         "name":"Sheikah",
-        "photo":"postava7.png"
+        "photo":"postava7.png",
+        "desc":""
     },
    
 ];
