@@ -32,15 +32,15 @@ var postavy = [
         "photo":"postava2.png"
     },
     {
-        "name":"Ganondorf",
+        "name":"Impa",
         "photo":"postava3.png"
     },
     {
-        "name":"Ganon",
+        "name":"Ganondorf",
         "photo":"postava4.png"
     },
     {
-        "name":"Impa",
+        "name":"Ganon",
         "photo":"postava5.png"
     },
     {
