@@ -36,27 +36,27 @@ var postavy = [
     {
         "name":"Impa",
         "photo":"postava3.png",
-        "desc":""
+        "desc":"Part of the Sheikah tribe, Impa serves Princess Zelda and acts as her protector."
     },
     {
         "name":"Ganondorf",
         "photo":"postava4.png",
-        "desc":""
+        "desc":"Once known as the King of Thieves, Ganondorf Dragmire used the power of the Triforce to become the beast, Ganon."
     },
     {
         "name":"Ganon",
         "photo":"postava5.png",
-        "desc":""
+        "desc":"Ganon is the boar-like manifestation of pure evil."
     },
     {
         "name":"Deku",
         "photo":"postava6.png",
-        "desc":""
+        "desc":"A race of plant-like creatures who vary in size and temperament."
     },
     {
         "name":"Sheikah",
         "photo":"postava7.png",
-        "desc":""
+        "desc":"An ancient clan of ninja-like warriors sworn to protect the Royal Family of Hyrule."
     },
    
 ];
