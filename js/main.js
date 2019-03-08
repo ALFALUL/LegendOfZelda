@@ -17,7 +17,7 @@ $(function(){
     var x=0;
     window.setInterval(function(){
         mista.find('img').attr('src','img/' + postavy[x].photo);
-        mista.find('figcaption').text(postavy[x].place);
+        mista.find('figcaption').text(postavy[x].name);
         x == postavy.length -1 ? x=0 : x++;
     },4000);
 
