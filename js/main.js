@@ -2,7 +2,7 @@ $(function(){
     $('#lore p').hide();
     $('#lore h4').on('click', function(){
         if ($(this).nextUntil('h4').is(':hidden')) {
-            $(this).css({'background-color':'#38a'});
+            $(this).css({'background-color':'#0b5135'});
         } else {
             $(this).css({'background-color':'#444'});
         }
