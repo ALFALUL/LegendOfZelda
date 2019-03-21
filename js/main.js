@@ -4,7 +4,7 @@ $(function(){
         if ($(this).nextUntil('h4').is(':hidden')) {
             $(this).css({'background-color':'#0b5135'});
         } else {
-            $(this).css({'background-color':'#444'});
+            $(this).css({'background-color':'#0b5135'});
         }
         $(this).nextUntil('h4').toggle(500);
     });
